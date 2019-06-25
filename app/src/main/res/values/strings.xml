@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pleslaik</string>
+    <string name="touch_to_turn_on_off">Touch to turn ON/OFF</string>
+    <string name="Flashlight_is_turned_ON">Flashlight is turned ON</string>
+</resources>
